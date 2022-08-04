@@ -1,7 +1,24 @@
-# Vue JS Invoice App
+# lns
 
-- This app is for a firm that trains students with their courses & get them placed.
-- Four of the courses are free but if the student wants to avail more than 4 courses, they need to pay.
-- This app is just for my practice on Vue JS. 
-- I made a Search box at the top where the user is able to search for their courses & then they have a filter section where they can filter on the basis of date.
-- Then there is a list of invoices, which on click shows the full invoice in the form of PDF.
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
